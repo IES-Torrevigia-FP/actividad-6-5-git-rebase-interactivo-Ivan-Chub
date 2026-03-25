@@ -1,0 +1,5 @@
+git log --oneline:
+3953cf4 (HEAD -> main) wip 1
+4c1582b Commit 1: versión inicial
+
+Puede ser útil cuando hay que limpiar el historial de los commits "ruidosos".

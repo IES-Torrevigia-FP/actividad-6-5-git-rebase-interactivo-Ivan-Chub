@@ -1,0 +1,5 @@
+git log --oneline:
+eae83f2 (HEAD -> main) otro commit
+8f3b979 arreglo
+8cb7e5d wip 1
+4c1582b Commit 1: versión inicial

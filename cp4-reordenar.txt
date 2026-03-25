@@ -1,0 +1,8 @@
+git log --oneline:
+3953cf4 (HEAD -> main) wip 1
+4c1582b Commit 1: versión inicial
+
+git log --oneline:
+b9476a0 (HEAD) 
+
+Puede ser útil reordenar commits para agrupar cambios relacionados.

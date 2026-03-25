@@ -1,0 +1,5 @@
+git log --oneline:
+3953cf4 (HEAD -> main) wip 1
+4c1582b Commit 1: versión inicial
+
+Voy a usar el comando git rebase --abort cuando hay que devolver el repositorio al estado anterior al rebase. 

@@ -1,0 +1,7 @@
+git log --oneline:
+d9aa053 (HEAD -> main) otro commit
+9a9d362 arreglo
+fc217dd wip 1
+4c1582b Commit 1: versión inicial
+
+El commando reword en un rebase interactivo se utiliza para cambiar el mensaje de un commit.
